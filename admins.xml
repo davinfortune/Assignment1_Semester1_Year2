@@ -1,0 +1,18 @@
+<object-stream>
+  <list>
+    <Application.propertyAdmin>
+      <name>Davin Fortune</name>
+      <adminId>WX331</adminId>
+      <username>davinfortune</username>
+      <password>1234</password>
+      <masterAdminPassword>root</masterAdminPassword>
+    </Application.propertyAdmin>
+    <Application.propertyAdmin>
+      <name>Davin Fortune</name>
+      <adminId>CRK223</adminId>
+      <username>admin2</username>
+      <password>1222</password>
+      <masterAdminPassword>root</masterAdminPassword>
+    </Application.propertyAdmin>
+  </list>
+</object-stream>

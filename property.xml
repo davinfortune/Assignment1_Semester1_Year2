@@ -1,0 +1,70 @@
+<object-stream>
+  <list>
+    <Application.Property>
+      <propertyId>14234512</propertyId>
+      <description>5 Bedroom 3 Bathroom</description>
+      <address>1 Ard na Groi</address>
+      <category>Semi-Detached House</category>
+      <locationGeneral>Co.Waterford</locationGeneral>
+      <locationSpecific>Tramore</locationSpecific>
+      <BER>1231</BER>
+      <eircode>X91X6F3</eircode>
+      <price>250000.0</price>
+    </Application.Property>
+    <Application.Property>
+      <propertyId>35241</propertyId>
+      <description>3 Bedroom 2 Bathroom</description>
+      <address>122 Cillbally</address>
+      <category>Detached House</category>
+      <locationGeneral>Co.Kilkenny</locationGeneral>
+      <locationSpecific>Callan</locationSpecific>
+      <BER>123434KK</BER>
+      <eircode>X91X6F3</eircode>
+      <price>175000.0</price>
+    </Application.Property>
+    <Application.Property>
+      <propertyId>772648</propertyId>
+      <description>5 Bedroom 3 Bathroom</description>
+      <address>11 MerryWeathers</address>
+      <category>Detached House</category>
+      <locationGeneral>Co.Cork</locationGeneral>
+      <locationSpecific>KilMac</locationSpecific>
+      <BER>12353EE</BER>
+      <eircode>X62X272</eircode>
+      <price>425500.0</price>
+    </Application.Property>
+    <Application.Property>
+      <propertyId>2284287</propertyId>
+      <description>2 Bedroom 2 Bathroom</description>
+      <address>163 Garran</address>
+      <category>Attached House</category>
+      <locationGeneral>Co.Limerick</locationGeneral>
+      <locationSpecific>Ballycarry</locationSpecific>
+      <BER>6234LM</BER>
+      <eircode>X45X26</eircode>
+      <price>325000.0</price>
+    </Application.Property>
+    <Application.Property>
+      <propertyId>78292372</propertyId>
+      <description>1 Bedroom 1 Bathroom</description>
+      <address>42 Terrace</address>
+      <category>Apartment</category>
+      <locationGeneral>Co.Cork</locationGeneral>
+      <locationSpecific>Kinsale</locationSpecific>
+      <BER>1252CR</BER>
+      <eircode>X82X92</eircode>
+      <price>95000.0</price>
+    </Application.Property>
+    <Application.Property>
+      <propertyId>237482</propertyId>
+      <description>2 Bedroom 1 Bathroom</description>
+      <address>Penthouse Odeon Terrace</address>
+      <category>Apartment</category>
+      <locationGeneral>Co.Waterford</locationGeneral>
+      <locationSpecific>Ardkeen</locationSpecific>
+      <BER>123523WD</BER>
+      <eircode>X90X53</eircode>
+      <price>157000.0</price>
+    </Application.Property>
+  </list>
+</object-stream>

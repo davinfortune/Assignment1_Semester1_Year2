@@ -1,0 +1,28 @@
+<object-stream>
+  <list>
+    <Application.propertyAgent>
+      <username>davinfortune</username>
+      <password>1234</password>
+      <agentId>Exwe123</agentId>
+      <location>Co.Kilkenny</location>
+      <name>Davin Fortune</name>
+      <phoneNumber>830501771</phoneNumber>
+    </Application.propertyAgent>
+    <Application.propertyAgent>
+      <username>joedaly</username>
+      <password>12345</password>
+      <agentId>Exw123</agentId>
+      <location>Co.Waterford</location>
+      <name>Joe Daly</name>
+      <phoneNumber>830501771</phoneNumber>
+    </Application.propertyAgent>
+    <Application.propertyAgent>
+      <username>3luqiz</username>
+      <password>1234</password>
+      <agentId>HACKER</agentId>
+      <location>Co.Waterford</location>
+      <name>Luqiz Sicha</name>
+      <phoneNumber>97213019</phoneNumber>
+    </Application.propertyAgent>
+  </list>
+</object-stream>
